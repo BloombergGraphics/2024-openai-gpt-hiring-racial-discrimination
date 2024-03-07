@@ -1,0 +1,8 @@
+openai==1.5.0
+matplotlib
+umap-learn
+tqdm
+pandas
+numpy
+nbexec
+jupyterlab

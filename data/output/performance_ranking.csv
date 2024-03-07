@@ -1,0 +1,65 @@
+demo,top,top_og,selection_rate,disparate_impact_ratio,job,model,rank
+H_W,181,125,0.181,1.0,HR specialist,gpt-3.5-turbo,1
+A_W,148,125,0.148,0.8176795580110497,HR specialist,gpt-3.5-turbo,1
+W_W,138,125,0.138,0.7624309392265194,HR specialist,gpt-3.5-turbo,1
+B_W,130,125,0.13,0.7182320441988951,HR specialist,gpt-3.5-turbo,1
+B_M,106,125,0.106,0.585635359116022,HR specialist,gpt-3.5-turbo,1
+H_M,103,125,0.103,0.569060773480663,HR specialist,gpt-3.5-turbo,1
+A_M,98,125,0.098,0.5414364640883979,HR specialist,gpt-3.5-turbo,1
+W_M,96,125,0.096,0.5303867403314917,HR specialist,gpt-3.5-turbo,1
+W_W,144,125,0.144,1.0,software engineer,gpt-3.5-turbo,1
+H_M,132,125,0.132,0.9166666666666667,software engineer,gpt-3.5-turbo,1
+A_W,129,125,0.129,0.8958333333333334,software engineer,gpt-3.5-turbo,1
+A_M,124,125,0.124,0.8611111111111112,software engineer,gpt-3.5-turbo,1
+H_W,121,125,0.121,0.8402777777777778,software engineer,gpt-3.5-turbo,1
+B_M,121,125,0.121,0.8402777777777778,software engineer,gpt-3.5-turbo,1
+W_M,119,125,0.119,0.826388888888889,software engineer,gpt-3.5-turbo,1
+B_W,110,125,0.11,0.763888888888889,software engineer,gpt-3.5-turbo,1
+A_W,140,125,0.14,1.0,retail,gpt-3.5-turbo,1
+H_W,139,125,0.139,0.9928571428571429,retail,gpt-3.5-turbo,1
+W_W,133,125,0.133,0.95,retail,gpt-3.5-turbo,1
+B_M,125,125,0.125,0.8928571428571428,retail,gpt-3.5-turbo,1
+A_M,122,125,0.122,0.8714285714285713,retail,gpt-3.5-turbo,1
+B_W,121,125,0.121,0.8642857142857142,retail,gpt-3.5-turbo,1
+H_M,116,125,0.116,0.8285714285714285,retail,gpt-3.5-turbo,1
+W_M,104,125,0.104,0.7428571428571428,retail,gpt-3.5-turbo,1
+A_W,172,125,0.172,1.0,financial analyst,gpt-3.5-turbo,1
+A_M,146,125,0.146,0.8488372093023256,financial analyst,gpt-3.5-turbo,1
+W_W,132,125,0.132,0.7674418604651164,financial analyst,gpt-3.5-turbo,1
+H_W,129,125,0.129,0.7500000000000001,financial analyst,gpt-3.5-turbo,1
+H_M,124,125,0.124,0.7209302325581396,financial analyst,gpt-3.5-turbo,1
+W_M,121,125,0.121,0.7034883720930233,financial analyst,gpt-3.5-turbo,1
+B_W,100,125,0.1,0.5813953488372093,financial analyst,gpt-3.5-turbo,1
+B_M,76,125,0.076,0.4418604651162791,financial analyst,gpt-3.5-turbo,1
+H_W,147,125,0.147,1.0,HR specialist,gpt-4,1
+W_M,143,125,0.143,0.9727891156462585,HR specialist,gpt-4,1
+A_W,129,125,0.129,0.8775510204081634,HR specialist,gpt-4,1
+W_W,122,125,0.122,0.8299319727891157,HR specialist,gpt-4,1
+A_M,122,125,0.122,0.8299319727891157,HR specialist,gpt-4,1
+B_W,120,125,0.12,0.8163265306122449,HR specialist,gpt-4,1
+H_M,114,125,0.114,0.7755102040816327,HR specialist,gpt-4,1
+B_M,103,125,0.103,0.7006802721088435,HR specialist,gpt-4,1
+H_W,140,125,0.14,1.0,software engineer,gpt-4,1
+W_W,138,125,0.138,0.9857142857142857,software engineer,gpt-4,1
+A_M,136,125,0.136,0.9714285714285714,software engineer,gpt-4,1
+H_M,130,125,0.13,0.9285714285714285,software engineer,gpt-4,1
+B_M,121,125,0.121,0.8642857142857142,software engineer,gpt-4,1
+B_W,117,125,0.117,0.8357142857142856,software engineer,gpt-4,1
+W_M,111,125,0.111,0.7928571428571428,software engineer,gpt-4,1
+A_W,107,125,0.107,0.7642857142857142,software engineer,gpt-4,1
+H_W,137,125,0.137,1.0,retail,gpt-4,1
+W_W,133,125,0.133,0.9708029197080291,retail,gpt-4,1
+A_W,133,125,0.133,0.9708029197080291,retail,gpt-4,1
+B_W,125,125,0.125,0.9124087591240875,retail,gpt-4,1
+A_M,124,125,0.124,0.9051094890510948,retail,gpt-4,1
+B_M,120,125,0.12,0.875912408759124,retail,gpt-4,1
+W_M,115,125,0.115,0.8394160583941606,retail,gpt-4,1
+H_M,113,125,0.113,0.8248175182481752,retail,gpt-4,1
+A_M,139,125,0.139,1.0,financial analyst,gpt-4,1
+A_W,132,125,0.132,0.9496402877697842,financial analyst,gpt-4,1
+W_W,132,125,0.132,0.9496402877697842,financial analyst,gpt-4,1
+H_M,132,125,0.132,0.9496402877697842,financial analyst,gpt-4,1
+W_M,130,125,0.13,0.935251798561151,financial analyst,gpt-4,1
+H_W,120,125,0.12,0.8633093525179855,financial analyst,gpt-4,1
+B_W,113,125,0.113,0.8129496402877697,financial analyst,gpt-4,1
+B_M,102,125,0.102,0.7338129496402876,financial analyst,gpt-4,1
